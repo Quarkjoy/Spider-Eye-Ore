@@ -1,0 +1,6 @@
+{
+  "parent" : "block/cube_all",
+  "textures": {
+    "all": "spidereyeore:block/deepslate_spider_eye_ore"
+  }
+}

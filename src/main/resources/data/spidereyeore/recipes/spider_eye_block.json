@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "spidereyeore:spider_eye_ingot"
+    }
+  },
+  "result": {
+    "item": "spidereyeore:spider_eye_block"
+  }
+}
